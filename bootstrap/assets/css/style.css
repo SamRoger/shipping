@@ -1,0 +1,79 @@
+body {
+	background-color: teal;
+}
+
+.submit1 {
+	color: red;
+	font-size: 40px;
+}
+
+.col {
+	text-align: center;
+	border: 2px solid black;
+}
+
+.headerSize {
+	height: 250px;
+}
+
+.pageHeader {
+	width: 100%;
+	height: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+/*	background-size: 100% 100%;
+*/	background-image: url("../img/hoagie.jpg");
+}
+
+.hr1 {
+	border-top: none;
+	background-color: black;
+	padding: 0px;
+	color: black;
+	width: 85%;
+	height: 3px;
+}
+
+.myContainer {
+	border: 2px solid black;
+	margin: 0 auto;
+	width: 80%;
+}
+
+.fade {
+	
+}
+
+.lastCol1 {
+	display: flex;
+	justify-content: space-around;
+}
+
+.last1 {
+	margin: 10px;
+	border: 2px solid black;
+	text-align: center;
+}
+
+.col-md-8 {
+	border: 3px solid black;
+}
+
+.col5 {
+	border: 3px solid black;
+	text-align: center;
+}
+
+.row {
+	justify-content: space-around;
+	display: flex;
+}
+
+.row2 {
+	margin-top: 50px;
+}
+
+.col12 {
+	border: 3px solid black;
+}

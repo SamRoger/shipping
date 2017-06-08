@@ -1,0 +1,19 @@
+.primary-text {
+  margin: 30px; }
+
+.secondary {
+  margin: 30px; }
+
+.tertiary {
+  margin: 30px; }
+
+body {
+  background-color: teal;
+  color: salmon;
+  font-size: 24px;
+  font-family: "Futura"; }
+
+div {
+  border: 2px solid black; }
+
+/*# sourceMappingURL=main.css.map */

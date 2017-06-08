@@ -1,0 +1,10 @@
+body {
+	background-color: teal;
+}
+
+div {
+	width: 50%;
+	margin: 10px;
+	background-color: salmon;
+	padding: 20px;
+}

@@ -1,0 +1,35 @@
+body {
+	background-color: lightgrey;
+}
+
+.gallery-photo {
+	height: 300px;
+	width: 300px;
+	background-color: red;
+}
+
+.gallery {
+	display: flex;
+	justify-content: space-around;
+	background-color: green;
+	padding: 20px;
+}
+
+.choice-container {
+	display: flex;
+	background-color: teal;
+	justify-content: space-around;
+	padding: 30px;
+}
+
+.choice {
+	width: 200px;
+	height: 150px;
+	padding: 20px;
+	background-color: salmon;
+	color: olive;
+	text-align: center;
+	font-size: 40px;
+	font-family: "Futura";
+	text-shadow: 3px 2px black;
+}
